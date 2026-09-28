@@ -5,5 +5,8 @@
   "description": "Watch free movies, shows, and live TV with Plex.",
   "url": "https://watch.plex.tv/",
   "iconUrl": "https://raw.githubusercontent.com/RavenholmZombie/InfoScreenAppRepository/main/AppIcons/plex.png",
-  "author": "RavenholmZombie"
+  "author": "RavenholmZombie",
+  "capabilities": {
+    "mediaPlayback": true
+  }
 }
