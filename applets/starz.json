@@ -1,0 +1,9 @@
+{
+  "id": "starz",
+  "name": "STARZ",
+  "version": "1.0.0",
+  "description": "Stream STARZ original series and movies.",
+  "url": "https://www.starz.com/us/en/",
+  "iconUrl": "https://raw.githubusercontent.com/RavenholmZombie/InfoScreenAppRepository/main/AppIcons/starz.png",
+  "author": "RavenholmZombie"
+}
