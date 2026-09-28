@@ -1,0 +1,9 @@
+{
+  "id": "netflix",
+  "name": "Netflix",
+  "version": "1.0.0",
+  "description": "Watch Netflix movies, series, documentaries, and originals.",
+  "url": "https://www.netflix.com/browse",
+  "iconUrl": "https://raw.githubusercontent.com/RavenholmZombie/InfoScreenAppRepository/main/AppIcons/netflix.png",
+  "author": "RavenholmZombie"
+}
