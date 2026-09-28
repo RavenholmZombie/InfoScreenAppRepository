@@ -1,0 +1,9 @@
+{
+  "id": "metrocalculator",
+  "name": "Metro Calculator",
+  "version": "1.0.0",
+  "description": "Do math on your TV because why not?",
+  "url": "https://ravenholmzombie.github.io/MetroCalculator/",
+  "iconUrl": "https://raw.githubusercontent.com/RavenholmZombie/InfoScreenAppRepository/main/AppIcons/calculator.png",
+  "author": "RavenholmZombie"
+}
