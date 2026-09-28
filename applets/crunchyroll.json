@@ -5,5 +5,8 @@
   "description": "Stream anime series, movies, and new episodes on Crunchyroll.",
   "url": "https://www.crunchyroll.com/",
   "iconUrl": "https://raw.githubusercontent.com/RavenholmZombie/InfoScreenAppRepository/main/AppIcons/crunchyroll.png",
-  "author": "RavenholmZombie"
+  "author": "RavenholmZombie",
+  "capabilities": {
+    "mediaPlayback": true
+  }
 }
