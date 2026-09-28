@@ -1,4 +1,8 @@
-# InfoScreen App Repository
+<p align="center">
+  <img src="AppIcons/infostore.png" alt="InfoStore basket icon" width="256">
+</p>
+
+<h1 align="center">InfoScreen App Repository</h1>
 
 This repository is the catalog used by InfoScreen's integrated **InfoStore**.
 
