@@ -1,0 +1,9 @@
+{
+  "id": "peacock",
+  "name": "Peacock",
+  "version": "1.0.0",
+  "description": "Stream Peacock originals, movies, TV, live sports, and news.",
+  "url": "https://www.peacocktv.com/watch/home",
+  "iconUrl": "https://raw.githubusercontent.com/RavenholmZombie/InfoScreenAppRepository/main/AppIcons/peacock.png",
+  "author": "RavenholmZombie"
+}
