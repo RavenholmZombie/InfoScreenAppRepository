@@ -1,0 +1,9 @@
+{
+  "id": "crunchyroll",
+  "name": "Crunchyroll",
+  "version": "1.0.0",
+  "description": "Stream anime series, movies, and new episodes on Crunchyroll.",
+  "url": "https://www.crunchyroll.com/",
+  "iconUrl": "https://raw.githubusercontent.com/RavenholmZombie/InfoScreenAppRepository/main/AppIcons/crunchyroll.png",
+  "author": "RavenholmZombie"
+}
