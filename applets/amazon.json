@@ -1,0 +1,9 @@
+{
+  "id": "amazon",
+  "name": "Amazon",
+  "description": "Shop Amazon from the comfort of your TV!",
+  "version": "1.0.0.0",
+  "author": "RavenholmZombie",
+  "url": "https://amazon.com",
+  "iconUrl": "https://x02.me/u/8iIjLj.png"
+}
