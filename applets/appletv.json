@@ -1,0 +1,9 @@
+{
+  "id": "appletv",
+  "name": "Apple TV",
+  "version": "1.0.0",
+  "description": "Watch Apple Originals, movies, series, and more on Apple TV.",
+  "url": "https://tv.apple.com/",
+  "iconUrl": "https://raw.githubusercontent.com/RavenholmZombie/InfoScreenAppRepository/main/AppIcons/appletv.png",
+  "author": "RavenholmZombie"
+}
