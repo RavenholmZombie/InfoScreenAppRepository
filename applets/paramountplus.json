@@ -5,5 +5,8 @@
   "description": "Stream Paramount+ originals, movies, live TV, sports, and SHOWTIME.",
   "url": "https://www.paramountplus.com/",
   "iconUrl": "https://raw.githubusercontent.com/RavenholmZombie/InfoScreenAppRepository/main/AppIcons/paramountplus.png",
-  "author": "RavenholmZombie"
+  "author": "RavenholmZombie",
+  "capabilities": {
+    "mediaPlayback": true
+  }
 }
