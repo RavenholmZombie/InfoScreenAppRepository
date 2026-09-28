@@ -5,5 +5,8 @@
   "description": "Watch Amazon Prime Video content in InfoScreen.",
   "url": "https://www.primevideo.com/gp/video/storefront",
   "iconUrl": "https://raw.githubusercontent.com/RavenholmZombie/InfoScreenAppRepository/main/AppIcons/prime.png",
-  "author": "RavenholmZombie"
+  "author": "RavenholmZombie",
+  "capabilities": {
+    "mediaPlayback": true
+  }
 }
