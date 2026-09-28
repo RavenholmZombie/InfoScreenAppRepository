@@ -5,5 +5,8 @@
   "description": "Watch Apple Originals, movies, series, and more on Apple TV.",
   "url": "https://tv.apple.com/",
   "iconUrl": "https://raw.githubusercontent.com/RavenholmZombie/InfoScreenAppRepository/main/AppIcons/appletv.png",
-  "author": "RavenholmZombie"
+  "author": "RavenholmZombie",
+  "capabilities": {
+    "mediaPlayback": true
+  }
 }
