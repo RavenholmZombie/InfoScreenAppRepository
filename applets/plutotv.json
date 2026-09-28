@@ -5,5 +5,8 @@
   "description": "Watch free live TV channels and on-demand movies and shows.",
   "url": "https://pluto.tv/",
   "iconUrl": "https://raw.githubusercontent.com/RavenholmZombie/InfoScreenAppRepository/main/AppIcons/plutotv.png",
-  "author": "RavenholmZombie"
+  "author": "RavenholmZombie",
+  "capabilities": {
+    "mediaPlayback": true
+  }
 }
