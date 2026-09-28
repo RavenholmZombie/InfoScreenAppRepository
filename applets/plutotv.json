@@ -1,0 +1,9 @@
+{
+  "id": "plutotv",
+  "name": "Pluto TV",
+  "version": "1.0.0",
+  "description": "Watch free live TV channels and on-demand movies and shows.",
+  "url": "https://pluto.tv/",
+  "iconUrl": "https://raw.githubusercontent.com/RavenholmZombie/InfoScreenAppRepository/main/AppIcons/plutotv.png",
+  "author": "RavenholmZombie"
+}
