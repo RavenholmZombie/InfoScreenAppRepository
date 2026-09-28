@@ -1,0 +1,9 @@
+{
+  "id": "disneyplus",
+  "name": "Disney+",
+  "version": "1.0.0",
+  "description": "Stream Disney, Pixar, Marvel, Star Wars, National Geographic, and more.",
+  "url": "https://www.disneyplus.com/",
+  "iconUrl": "https://raw.githubusercontent.com/RavenholmZombie/InfoScreenAppRepository/main/AppIcons/disneyplus.png",
+  "author": "RavenholmZombie"
+}
