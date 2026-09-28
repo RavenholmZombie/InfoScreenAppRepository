@@ -5,5 +5,8 @@
   "description": "Watch live TV and recordings with Philo.",
   "url": "https://www.philo.com/player/mytv",
   "iconUrl": "https://raw.githubusercontent.com/RavenholmZombie/InfoScreenAppRepository/main/AppIcons/philo.png",
-  "author": "RavenholmZombie"
+  "author": "RavenholmZombie",
+  "capabilities": {
+    "mediaPlayback": true
+  }
 }
