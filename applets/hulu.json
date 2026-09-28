@@ -1,0 +1,9 @@
+{
+  "id": "hulu",
+  "name": "Hulu",
+  "version": "1.0.0",
+  "description": "Watch Hulu originals, TV shows, movies, and live TV.",
+  "url": "https://www.hulu.com/hub/home",
+  "iconUrl": "https://raw.githubusercontent.com/RavenholmZombie/InfoScreenAppRepository/main/AppIcons/hulu.png",
+  "author": "RavenholmZombie"
+}
