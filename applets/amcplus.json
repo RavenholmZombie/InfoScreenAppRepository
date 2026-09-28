@@ -5,5 +5,8 @@
   "description": "Stream AMC+ series, movies, and programming from AMC networks.",
   "url": "https://www.amcplus.com/",
   "iconUrl": "https://raw.githubusercontent.com/RavenholmZombie/InfoScreenAppRepository/main/AppIcons/amcplus.png",
-  "author": "RavenholmZombie"
+  "author": "RavenholmZombie",
+  "capabilities": {
+    "mediaPlayback": true
+  }
 }
