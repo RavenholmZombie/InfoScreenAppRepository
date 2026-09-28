@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1,
+  "applets": [
+    "applets/philo.json",
+    "applets/youtube.json"
+  ]
+}
