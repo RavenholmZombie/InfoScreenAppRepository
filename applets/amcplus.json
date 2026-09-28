@@ -1,0 +1,9 @@
+{
+  "id": "amcplus",
+  "name": "AMC+",
+  "version": "1.0.0",
+  "description": "Stream AMC+ series, movies, and programming from AMC networks.",
+  "url": "https://www.amcplus.com/",
+  "iconUrl": "https://raw.githubusercontent.com/RavenholmZombie/InfoScreenAppRepository/main/AppIcons/amcplus.png",
+  "author": "RavenholmZombie"
+}
