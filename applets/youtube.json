@@ -1,0 +1,9 @@
+{
+  "id": "youtube",
+  "name": "YouTube",
+  "version": "1.0.0",
+  "description": "Watch YouTube in InfoScreen.",
+  "url": "https://www.youtube.com/",
+  "iconUrl": "https://raw.githubusercontent.com/RavenholmZombie/InfoScreenAppRepository/main/AppIcons/youtube.svg",
+  "author": "RavenholmZombie"
+}
