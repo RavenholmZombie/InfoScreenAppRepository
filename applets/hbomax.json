@@ -5,5 +5,8 @@
   "description": "Stream HBO series, Max originals, blockbuster movies, and more.",
   "url": "https://www.hbomax.com/",
   "iconUrl": "https://raw.githubusercontent.com/RavenholmZombie/InfoScreenAppRepository/main/AppIcons/hbomax.png",
-  "author": "RavenholmZombie"
+  "author": "RavenholmZombie",
+  "capabilities": {
+    "mediaPlayback": true
+  }
 }
