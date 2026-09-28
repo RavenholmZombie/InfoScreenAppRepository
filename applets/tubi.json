@@ -1,0 +1,9 @@
+{
+  "id": "tubi",
+  "name": "Tubi",
+  "version": "1.0.0",
+  "description": "Watch Tubi on InfoScreen.",
+  "url": "https://tubitv.com/",
+  "iconUrl": "https://raw.githubusercontent.com/RavenholmZombie/InfoScreenAppRepository/main/AppIcons/tubi.png",
+  "author": "RavenholmZombie"
+}
