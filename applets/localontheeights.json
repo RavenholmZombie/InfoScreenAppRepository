@@ -1,0 +1,12 @@
+{
+  "id": "localontheeights",
+  "name": "Local on the 8s",
+  "description": "See the current forcast for your area.",
+  "version": "1.0.0",
+  "author": "RavenholmZombie",
+  "url": "https://ravenholmzombie.github.io/IntelliSTAR-InfoScreen/",
+  "iconUrl": "https://x02.me/u/mmdq0L.png",
+  "capabilities": {
+    "mediaPlayback": false
+  }
+}
