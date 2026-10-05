@@ -1,0 +1,12 @@
+{
+  "id": "example",
+  "name": "Example App",
+  "description": "Does nothing, for testing lol",
+  "version": "1.0.0.0",
+  "author": "RavenholmZombie",
+  "url": "https://example.com/",
+  "iconUrl": "https://x02.me/u/MXjb41.png",
+  "capabilities": {
+    "mediaPlayback": false
+  }
+}
